@@ -1,0 +1,21 @@
+.prevButton {
+    background-color: magenta;
+    border: none;
+    float: left;
+    font-size: 25px;
+    width: 125px
+}
+
+.nextButton {
+    background-color: magenta;
+    border: none;
+    float: right;
+    font-size: 25px;
+    width: 125px;
+}
+.nav {
+    overflow: hidden;
+    justify-content: space-between;
+    top: 5;
+    width: 100%;
+}

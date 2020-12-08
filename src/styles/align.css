@@ -1,0 +1,13 @@
+.appAlign {
+    align-items: center;
+    text-align: center;
+}
+
+.App-clock {
+    font-size: 100px;
+}
+
+.convertButton {
+    width: 100px;
+    background-color: blueviolet;
+}
